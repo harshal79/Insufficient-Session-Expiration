@@ -1,4 +1,4 @@
-# CVE Request: Insufficient Session Expiration in Nagios Network Analyzer  
+# Insufficient Session Expiration in Nagios Network Analyzer  
 
 ## Overview  
 A **session management issue** in **Nagios Network Analyzer 2024R1.0.3** allows user sessions to remain valid after logout, enabling potential unauthorized access. This vulnerability falls under **Identification and Authentication Failures** and can lead to **account hijacking** and **unauthorized actions**.  
