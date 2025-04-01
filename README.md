@@ -29,7 +29,7 @@ The application fails to properly invalidate session tokens after logout, allowi
 - **February 4, 2025:** Public disclosure permitted.  
 
 ## References  
-- [MITRE CVE Entry - Pending]  
+- [MITRE CVE Entry] (https://www.cve.org/CVERecord?id=CVE-2025-28132) 
 - [Nagios Changelog](https://www.nagios.com/changelog/#network-analyzer)  
 
 ## Suggested Remediation  
@@ -40,4 +40,4 @@ The application fails to properly invalidate session tokens after logout, allowi
 - **Discovered by:** Harshal Tembhurne  
 
 ## Note  
-This repository is created solely for submitting a **CVE request**. It provides the necessary details for vulnerability tracking while adhering to responsible disclosure practices.  
+This repository is created solely for providing the necessary details for vulnerability tracking while adhering to responsible disclosure practices.  
